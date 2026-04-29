@@ -10,6 +10,7 @@ title: Finia
 ## 文件
 
 - [隱私權政策](privacy-policy)
+- [使用條款](terms-of-use)
 - [使用支援與常見問題](support)
 
 ## 聯絡
